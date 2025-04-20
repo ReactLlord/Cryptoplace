@@ -50,7 +50,7 @@
 
 .coin-info{
     max-width: 600px;
-    margin:50px;
+    margin:auto;
     display: flex;
     flex-direction: column;
 }
